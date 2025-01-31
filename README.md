@@ -31,20 +31,21 @@
 </div>
 <br>
 <br>
-<div align="center">
-  <h3 >🔥 Most Used Languages</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonjinho99&layout=compact&theme=radical"/>
-      </a>
+
+  <div align="center">
+  <h3>🔥 Most Used Languages & 📊 GitHub Stats</h3>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonjinho99&layout=compact&theme=radical" width="380" height="200"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=moonjinho99&show_icons=true&theme=radical" width="450" height="210"/>
+    </a>
+  </div>
 </div>
-<br>
-<br>
-<div align="center">
- <h3>📊 GitHub Stats</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=moonjinho99&show_icons=true&theme=radical"/>
-      </a>
-</div> 
+
+
+
 
 <!--
 **moonjinho99/moonjinho99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
