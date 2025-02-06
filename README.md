@@ -21,7 +21,7 @@
 </div>
 <br>
 <br>
-<h3 align="center">📫 Tool 📫</h3>
+<h3 align="center">🔭 Tool 🔭</h3>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
