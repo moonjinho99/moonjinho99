@@ -38,9 +38,13 @@
  <div align="center">
   <h3>✏️ Review</h3>
 
-<a href="[https://your-tistory-url.tistory.com](https://notes9190moon.tistory.com)">
-  <img src="https://img.shields.io/badge/Tistory-블로그-orange?logo=tistory" alt="Tistory Blog" height="30">
-</a>
+<p align="center">
+  <a href="https://notes9190moon.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-블로그-orange?logo=tistory" alt="Tistory Blog" height="30" />
+  </a>
+</p>
+
+
 
 </div>
 <br>
