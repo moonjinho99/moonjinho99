@@ -35,6 +35,17 @@
 <br>
 <br>
 
+ <div align="center">
+  <h3>✏️ Review</h3>
+
+<a href="[https://your-tistory-url.tistory.com](https://notes9190moon.tistory.com)">
+  <img src="https://img.shields.io/badge/Tistory-블로그-orange?logo=tistory" alt="Tistory Blog" height="30">
+</a>
+
+</div>
+<br>
+<br>
+
   <div align="center">
   <h3>🔥 Most Used Languages & 📊 GitHub Stats</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
