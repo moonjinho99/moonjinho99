@@ -49,7 +49,7 @@
 </div>
 <br>
 <br>
-
+<!--
   <div align="center">
   <h3>🔥 Most Used Languages & 📊 GitHub Stats</h3>
   <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -61,7 +61,7 @@
     </a>
   </div>
 </div>
-
+-->
 
 
 
